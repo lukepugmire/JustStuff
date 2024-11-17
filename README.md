@@ -1,2 +1,2 @@
 # JustStuff
-Nothing specific, just a collection of things
+A small collection of things.
