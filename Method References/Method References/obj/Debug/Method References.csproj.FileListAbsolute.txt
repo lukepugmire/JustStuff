@@ -1,0 +1,7 @@
+C:\Users\lukep\source\repos\Method References\Method References\bin\Debug\Method References.exe.config
+C:\Users\lukep\source\repos\Method References\Method References\bin\Debug\Method References.exe
+C:\Users\lukep\source\repos\Method References\Method References\bin\Debug\Method References.pdb
+C:\Users\lukep\source\repos\Method References\Method References\obj\Debug\Method References.csproj.AssemblyReference.cache
+C:\Users\lukep\source\repos\Method References\Method References\obj\Debug\Method References.csproj.CoreCompileInputs.cache
+C:\Users\lukep\source\repos\Method References\Method References\obj\Debug\Method References.exe
+C:\Users\lukep\source\repos\Method References\Method References\obj\Debug\Method References.pdb

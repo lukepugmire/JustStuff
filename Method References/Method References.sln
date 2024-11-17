@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelperMethods", "HelperMethods\HelperMethods.csproj", "{9787EE89-B6CE-4B41-9294-49A21FCFF8F6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method References", "Method References\Method References.csproj", "{BF66A6DB-22F8-4A5B-AB8A-8E2D448C23F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9787EE89-B6CE-4B41-9294-49A21FCFF8F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9787EE89-B6CE-4B41-9294-49A21FCFF8F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9787EE89-B6CE-4B41-9294-49A21FCFF8F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9787EE89-B6CE-4B41-9294-49A21FCFF8F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF66A6DB-22F8-4A5B-AB8A-8E2D448C23F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF66A6DB-22F8-4A5B-AB8A-8E2D448C23F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF66A6DB-22F8-4A5B-AB8A-8E2D448C23F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF66A6DB-22F8-4A5B-AB8A-8E2D448C23F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {FE0B9CB3-69C4-4D61-AE71-69BBE9B4D871}
+		SolutionGuid = {52762CA9-DE7D-487B-AD3D-7CD04C719730}
 	EndGlobalSection
 EndGlobal
