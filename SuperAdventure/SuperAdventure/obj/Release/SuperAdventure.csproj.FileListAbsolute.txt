@@ -1,0 +1,13 @@
+C:\Users\lukep\Desktop\Viktig\CodePractice\c#\Practice\Adventure\SuperAdventure\SuperAdventure\bin\Release\SuperAdventure.exe.config
+C:\Users\lukep\Desktop\Viktig\CodePractice\c#\Practice\Adventure\SuperAdventure\SuperAdventure\bin\Release\SuperAdventure.exe
+C:\Users\lukep\Desktop\Viktig\CodePractice\c#\Practice\Adventure\SuperAdventure\SuperAdventure\bin\Release\SuperAdventure.pdb
+C:\Users\lukep\Desktop\Viktig\CodePractice\c#\Practice\Adventure\SuperAdventure\SuperAdventure\bin\Release\Engine.dll
+C:\Users\lukep\Desktop\Viktig\CodePractice\c#\Practice\Adventure\SuperAdventure\SuperAdventure\bin\Release\Engine.pdb
+C:\Users\lukep\Desktop\Viktig\CodePractice\c#\Practice\Adventure\SuperAdventure\SuperAdventure\obj\Release\SuperAdventure.csproj.AssemblyReference.cache
+C:\Users\lukep\Desktop\Viktig\CodePractice\c#\Practice\Adventure\SuperAdventure\SuperAdventure\obj\Release\SuperAdventure.Properties.Resources.resources
+C:\Users\lukep\Desktop\Viktig\CodePractice\c#\Practice\Adventure\SuperAdventure\SuperAdventure\obj\Release\SuperAdventure.SuperAdventure.resources
+C:\Users\lukep\Desktop\Viktig\CodePractice\c#\Practice\Adventure\SuperAdventure\SuperAdventure\obj\Release\SuperAdventure.csproj.GenerateResource.cache
+C:\Users\lukep\Desktop\Viktig\CodePractice\c#\Practice\Adventure\SuperAdventure\SuperAdventure\obj\Release\SuperAdventure.csproj.CoreCompileInputs.cache
+C:\Users\lukep\Desktop\Viktig\CodePractice\c#\Practice\Adventure\SuperAdventure\SuperAdventure\obj\Release\SuperAdv.5A2A7CD7.Up2Date
+C:\Users\lukep\Desktop\Viktig\CodePractice\c#\Practice\Adventure\SuperAdventure\SuperAdventure\obj\Release\SuperAdventure.exe
+C:\Users\lukep\Desktop\Viktig\CodePractice\c#\Practice\Adventure\SuperAdventure\SuperAdventure\obj\Release\SuperAdventure.pdb

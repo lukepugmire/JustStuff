@@ -1,0 +1,7 @@
+C:\Users\lukep\source\repos\HelperMethods\HelperMethods\bin\Debug\HelperMethods.exe.config
+C:\Users\lukep\source\repos\HelperMethods\HelperMethods\bin\Debug\HelperMethods.exe
+C:\Users\lukep\source\repos\HelperMethods\HelperMethods\bin\Debug\HelperMethods.pdb
+C:\Users\lukep\source\repos\HelperMethods\HelperMethods\obj\Debug\HelperMethods.csproj.AssemblyReference.cache
+C:\Users\lukep\source\repos\HelperMethods\HelperMethods\obj\Debug\HelperMethods.csproj.CoreCompileInputs.cache
+C:\Users\lukep\source\repos\HelperMethods\HelperMethods\obj\Debug\HelperMethods.exe
+C:\Users\lukep\source\repos\HelperMethods\HelperMethods\obj\Debug\HelperMethods.pdb

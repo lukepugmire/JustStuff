@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\c#\\Practice\\Adventure\\SuperAdventure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59DF7B31-DF00-4C40-85ED-471CFE6F72F4}|Engine\\Engine.csproj|C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\c#\\Practice\\Adventure\\SuperAdventure\\engine\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59DF7B31-DF00-4C40-85ED-471CFE6F72F4}|Engine\\Engine.csproj|solutionrelative:engine\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59DF7B31-DF00-4C40-85ED-471CFE6F72F4}|Engine\\Engine.csproj|C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\c#\\Practice\\Adventure\\SuperAdventure\\engine\\randomnumbergenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59DF7B31-DF00-4C40-85ED-471CFE6F72F4}|Engine\\Engine.csproj|solutionrelative:engine\\randomnumbergenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59DF7B31-DF00-4C40-85ED-471CFE6F72F4}|Engine\\Engine.csproj|c:\\users\\lukep\\desktop\\viktig\\codepractice\\c#\\practice\\adventure\\superadventure\\engine\\world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59DF7B31-DF00-4C40-85ED-471CFE6F72F4}|Engine\\Engine.csproj|solutionrelative:engine\\world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59DF7B31-DF00-4C40-85ED-471CFE6F72F4}|Engine\\Engine.csproj|C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\c#\\Practice\\Adventure\\SuperAdventure\\engine\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59DF7B31-DF00-4C40-85ED-471CFE6F72F4}|Engine\\Engine.csproj|solutionrelative:engine\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59DF7B31-DF00-4C40-85ED-471CFE6F72F4}|Engine\\Engine.csproj|C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\c#\\Practice\\Adventure\\SuperAdventure\\engine\\quest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59DF7B31-DF00-4C40-85ED-471CFE6F72F4}|Engine\\Engine.csproj|solutionrelative:engine\\quest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CF8B30D-824B-4B1A-8BCE-D65E8E2E2D44}|SuperAdventure\\SuperAdventure.csproj|C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\c#\\Practice\\Adventure\\SuperAdventure\\superadventure\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CF8B30D-824B-4B1A-8BCE-D65E8E2E2D44}|SuperAdventure\\SuperAdventure.csproj|solutionrelative:superadventure\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59DF7B31-DF00-4C40-85ED-471CFE6F72F4}|Engine\\Engine.csproj|C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\c#\\Practice\\Adventure\\SuperAdventure\\engine\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59DF7B31-DF00-4C40-85ED-471CFE6F72F4}|Engine\\Engine.csproj|solutionrelative:engine\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59DF7B31-DF00-4C40-85ED-471CFE6F72F4}|Engine\\Engine.csproj|C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\c#\\Practice\\Adventure\\SuperAdventure\\engine\\questcompletionitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59DF7B31-DF00-4C40-85ED-471CFE6F72F4}|Engine\\Engine.csproj|solutionrelative:engine\\questcompletionitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59DF7B31-DF00-4C40-85ED-471CFE6F72F4}|Engine\\Engine.csproj|C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\c#\\Practice\\Adventure\\SuperAdventure\\engine\\playerquest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59DF7B31-DF00-4C40-85ED-471CFE6F72F4}|Engine\\Engine.csproj|solutionrelative:engine\\playerquest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59DF7B31-DF00-4C40-85ED-471CFE6F72F4}|Engine\\Engine.csproj|C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\c#\\Practice\\Adventure\\SuperAdventure\\engine\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59DF7B31-DF00-4C40-85ED-471CFE6F72F4}|Engine\\Engine.csproj|solutionrelative:engine\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59DF7B31-DF00-4C40-85ED-471CFE6F72F4}|Engine\\Engine.csproj|C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\c#\\Practice\\Adventure\\SuperAdventure\\engine\\healingpotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59DF7B31-DF00-4C40-85ED-471CFE6F72F4}|Engine\\Engine.csproj|solutionrelative:engine\\healingpotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59DF7B31-DF00-4C40-85ED-471CFE6F72F4}|Engine\\Engine.csproj|C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\c#\\Practice\\Adventure\\SuperAdventure\\engine\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59DF7B31-DF00-4C40-85ED-471CFE6F72F4}|Engine\\Engine.csproj|solutionrelative:engine\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CF8B30D-824B-4B1A-8BCE-D65E8E2E2D44}|SuperAdventure\\SuperAdventure.csproj|C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\c#\\Practice\\Adventure\\SuperAdventure\\superadventure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CF8B30D-824B-4B1A-8BCE-D65E8E2E2D44}|SuperAdventure\\SuperAdventure.csproj|solutionrelative:superadventure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CF8B30D-824B-4B1A-8BCE-D65E8E2E2D44}|SuperAdventure\\SuperAdventure.csproj|C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\c#\\Practice\\Adventure\\SuperAdventure\\superadventure\\superadventure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2CF8B30D-824B-4B1A-8BCE-D65E8E2E2D44}|SuperAdventure\\SuperAdventure.csproj|solutionrelative:superadventure\\superadventure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CF8B30D-824B-4B1A-8BCE-D65E8E2E2D44}|SuperAdventure\\SuperAdventure.csproj|C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\c#\\Practice\\Adventure\\SuperAdventure\\superadventure\\superadventure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CF8B30D-824B-4B1A-8BCE-D65E8E2E2D44}|SuperAdventure\\SuperAdventure.csproj|solutionrelative:superadventure\\superadventure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "World.cs",
+              "DocumentMoniker": "C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\c#\\Practice\\Adventure\\SuperAdventure\\Engine\\World.cs",
+              "RelativeDocumentMoniker": "Engine\\World.cs",
+              "ToolTip": "C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\c#\\Practice\\Adventure\\SuperAdventure\\Engine\\World.cs",
+              "RelativeToolTip": "Engine\\World.cs",
+              "ViewState": "AgIAANMAAAAAAAAAAAAYwN8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:48:45.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RandomNumberGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\c#\\Practice\\Adventure\\SuperAdventure\\Engine\\RandomNumberGenerator.cs",
+              "RelativeDocumentMoniker": "Engine\\RandomNumberGenerator.cs",
+              "ToolTip": "C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\c#\\Practice\\Adventure\\SuperAdventure\\Engine\\RandomNumberGenerator.cs",
+              "RelativeToolTip": "Engine\\RandomNumberGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:48:36.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\c#\\Practice\\Adventure\\SuperAdventure\\Engine\\Location.cs",
+              "RelativeDocumentMoniker": "Engine\\Location.cs",
+              "ToolTip": "C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\c#\\Practice\\Adventure\\SuperAdventure\\Engine\\Location.cs",
+              "RelativeToolTip": "Engine\\Location.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T18:41:28.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Healingpotion.cs",
+              "DocumentMoniker": "C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\c#\\Practice\\Adventure\\SuperAdventure\\Engine\\Healingpotion.cs",
+              "RelativeDocumentMoniker": "Engine\\Healingpotion.cs",
+              "ToolTip": "C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\c#\\Practice\\Adventure\\SuperAdventure\\Engine\\Healingpotion.cs",
+              "RelativeToolTip": "Engine\\Healingpotion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T18:41:23.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\c#\\Practice\\Adventure\\SuperAdventure\\Engine\\Weapon.cs",
+              "RelativeDocumentMoniker": "Engine\\Weapon.cs",
+              "ToolTip": "C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\c#\\Practice\\Adventure\\SuperAdventure\\Engine\\Weapon.cs",
+              "RelativeToolTip": "Engine\\Weapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T18:41:20.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\c#\\Practice\\Adventure\\SuperAdventure\\SuperAdventure\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "SuperAdventure\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\c#\\Practice\\Adventure\\SuperAdventure\\SuperAdventure\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "SuperAdventure\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T18:41:10.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\c#\\Practice\\Adventure\\SuperAdventure\\SuperAdventure\\Program.cs",
+              "RelativeDocumentMoniker": "SuperAdventure\\Program.cs",
+              "ToolTip": "C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\c#\\Practice\\Adventure\\SuperAdventure\\SuperAdventure\\Program.cs",
+              "RelativeToolTip": "SuperAdventure\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T18:40:54.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\c#\\Practice\\Adventure\\SuperAdventure\\Engine\\Item.cs",
+              "RelativeDocumentMoniker": "Engine\\Item.cs",
+              "ToolTip": "C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\c#\\Practice\\Adventure\\SuperAdventure\\Engine\\Item.cs",
+              "RelativeToolTip": "Engine\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T12:46:52.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InventoryItem.cs",
+              "DocumentMoniker": "C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\c#\\Practice\\Adventure\\SuperAdventure\\Engine\\InventoryItem.cs",
+              "RelativeDocumentMoniker": "Engine\\InventoryItem.cs",
+              "ToolTip": "C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\c#\\Practice\\Adventure\\SuperAdventure\\Engine\\InventoryItem.cs",
+              "RelativeToolTip": "Engine\\InventoryItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T12:46:35.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerQuest.cs",
+              "DocumentMoniker": "C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\c#\\Practice\\Adventure\\SuperAdventure\\Engine\\PlayerQuest.cs",
+              "RelativeDocumentMoniker": "Engine\\PlayerQuest.cs",
+              "ToolTip": "C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\c#\\Practice\\Adventure\\SuperAdventure\\Engine\\PlayerQuest.cs",
+              "RelativeToolTip": "Engine\\PlayerQuest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:38:13.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QuestCompletionItem.cs",
+              "DocumentMoniker": "C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\c#\\Practice\\Adventure\\SuperAdventure\\Engine\\QuestCompletionItem.cs",
+              "RelativeDocumentMoniker": "Engine\\QuestCompletionItem.cs",
+              "ToolTip": "C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\c#\\Practice\\Adventure\\SuperAdventure\\Engine\\QuestCompletionItem.cs",
+              "RelativeToolTip": "Engine\\QuestCompletionItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:38:08.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Quest.cs",
+              "DocumentMoniker": "C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\c#\\Practice\\Adventure\\SuperAdventure\\Engine\\Quest.cs",
+              "RelativeDocumentMoniker": "Engine\\Quest.cs",
+              "ToolTip": "C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\c#\\Practice\\Adventure\\SuperAdventure\\Engine\\Quest.cs",
+              "RelativeToolTip": "Engine\\Quest.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:37:55.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\c#\\Practice\\Adventure\\SuperAdventure\\Engine\\Player.cs",
+              "RelativeDocumentMoniker": "Engine\\Player.cs",
+              "ToolTip": "C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\c#\\Practice\\Adventure\\SuperAdventure\\Engine\\Player.cs",
+              "RelativeToolTip": "Engine\\Player.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAUwGUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:04:13.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SuperAdventure.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\c#\\Practice\\Adventure\\SuperAdventure\\SuperAdventure\\SuperAdventure.cs",
+              "RelativeDocumentMoniker": "SuperAdventure\\SuperAdventure.cs",
+              "ToolTip": "C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\c#\\Practice\\Adventure\\SuperAdventure\\SuperAdventure\\SuperAdventure.cs [Design]",
+              "RelativeToolTip": "SuperAdventure\\SuperAdventure.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T13:32:17.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SuperAdventure.cs",
+              "DocumentMoniker": "C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\c#\\Practice\\Adventure\\SuperAdventure\\SuperAdventure\\SuperAdventure.cs",
+              "RelativeDocumentMoniker": "SuperAdventure\\SuperAdventure.cs",
+              "ToolTip": "C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\c#\\Practice\\Adventure\\SuperAdventure\\SuperAdventure\\SuperAdventure.cs",
+              "RelativeToolTip": "SuperAdventure\\SuperAdventure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHIBAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T13:31:47.172Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

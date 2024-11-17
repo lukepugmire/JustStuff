@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\forGit\\budgetApp\\Budgeting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49F593AC-EFF6-4E64-A2A6-3DD21BB9146D}|Financing\\Financing.csproj|c:\\users\\lukep\\desktop\\viktig\\codepractice\\forgit\\budgetapp\\budgeting\\financing\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{49F593AC-EFF6-4E64-A2A6-3DD21BB9146D}|Financing\\Financing.csproj|solutionrelative:financing\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F593AC-EFF6-4E64-A2A6-3DD21BB9146D}|Financing\\Financing.csproj|c:\\users\\lukep\\desktop\\viktig\\codepractice\\forgit\\budgetapp\\budgeting\\financing\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F593AC-EFF6-4E64-A2A6-3DD21BB9146D}|Financing\\Financing.csproj|solutionrelative:financing\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F593AC-EFF6-4E64-A2A6-3DD21BB9146D}|Financing\\Financing.csproj|c:\\users\\lukep\\desktop\\viktig\\codepractice\\forgit\\budgetapp\\budgeting\\financing\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F593AC-EFF6-4E64-A2A6-3DD21BB9146D}|Financing\\Financing.csproj|solutionrelative:financing\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F593AC-EFF6-4E64-A2A6-3DD21BB9146D}|Financing\\Financing.csproj|c:\\users\\lukep\\desktop\\viktig\\codepractice\\forgit\\budgetapp\\budgeting\\financing\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49F593AC-EFF6-4E64-A2A6-3DD21BB9146D}|Financing\\Financing.csproj|solutionrelative:financing\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F593AC-EFF6-4E64-A2A6-3DD21BB9146D}|Financing\\Financing.csproj|c:\\users\\lukep\\desktop\\viktig\\codepractice\\forgit\\budgetapp\\budgeting\\financing\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49F593AC-EFF6-4E64-A2A6-3DD21BB9146D}|Financing\\Financing.csproj|solutionrelative:financing\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F593AC-EFF6-4E64-A2A6-3DD21BB9146D}|Financing\\Financing.csproj|c:\\users\\lukep\\desktop\\viktig\\codepractice\\forgit\\budgetapp\\budgeting\\financing\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49F593AC-EFF6-4E64-A2A6-3DD21BB9146D}|Financing\\Financing.csproj|solutionrelative:financing\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F593AC-EFF6-4E64-A2A6-3DD21BB9146D}|Financing\\Financing.csproj|c:\\users\\lukep\\desktop\\viktig\\codepractice\\forgit\\budgetapp\\budgeting\\financing\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49F593AC-EFF6-4E64-A2A6-3DD21BB9146D}|Financing\\Financing.csproj|solutionrelative:financing\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F593AC-EFF6-4E64-A2A6-3DD21BB9146D}|Financing\\Financing.csproj|c:\\users\\lukep\\desktop\\viktig\\codepractice\\forgit\\budgetapp\\budgeting\\financing\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49F593AC-EFF6-4E64-A2A6-3DD21BB9146D}|Financing\\Financing.csproj|solutionrelative:financing\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F593AC-EFF6-4E64-A2A6-3DD21BB9146D}|Financing\\Financing.csproj|c:\\users\\lukep\\desktop\\viktig\\codepractice\\forgit\\budgetapp\\budgeting\\financing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F593AC-EFF6-4E64-A2A6-3DD21BB9146D}|Financing\\Financing.csproj|solutionrelative:financing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\forGit\\budgetApp\\Budgeting\\Financing\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Financing\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\forGit\\budgetApp\\Budgeting\\Financing\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Financing\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-17T20:00:44.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\forGit\\budgetApp\\Budgeting\\Financing\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Financing\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\forGit\\budgetApp\\Budgeting\\Financing\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Financing\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T20:00:34.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\forGit\\budgetApp\\Budgeting\\Financing\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Financing\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\forGit\\budgetApp\\Budgeting\\Financing\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Financing\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T20:00:32.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\forGit\\budgetApp\\Budgeting\\Financing\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Financing\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\forGit\\budgetApp\\Budgeting\\Financing\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Financing\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T20:00:30.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\forGit\\budgetApp\\Budgeting\\Financing\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Financing\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\forGit\\budgetApp\\Budgeting\\Financing\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Financing\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T20:00:29.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\forGit\\budgetApp\\Budgeting\\Financing\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Financing\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\forGit\\budgetApp\\Budgeting\\Financing\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Financing\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T20:00:27.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\forGit\\budgetApp\\Budgeting\\Financing\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Financing\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\forGit\\budgetApp\\Budgeting\\Financing\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Financing\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T20:00:27.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\forGit\\budgetApp\\Budgeting\\Financing\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Financing\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\forGit\\budgetApp\\Budgeting\\Financing\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Financing\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T20:00:26.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\forGit\\budgetApp\\Budgeting\\Financing\\Program.cs",
+              "RelativeDocumentMoniker": "Financing\\Program.cs",
+              "ToolTip": "C:\\Users\\lukep\\Desktop\\Viktig\\CodePractice\\forGit\\budgetApp\\Budgeting\\Financing\\Program.cs",
+              "RelativeToolTip": "Financing\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T20:00:10.39Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

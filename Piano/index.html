@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="icon" href="https://fav.farm/🔥" />
+  </head>
+  <body>
+    <div>
+      <h1>Keyboard Piano</h1>
+    </div>
+    <div>
+      <h2>So you use the keyboard to play... or click</h2>
+    </div>
+
+    <canvas id="animated-background"></canvas>
+    <div id="piano">
+      <div data-key="81" class="piano-key-natural key">
+        <kbd>Q</kbd><span>E</span>
+      </div>
+      <div data-key="87" class="piano-key-natural key">
+        <kbd>W</kbd><span>F</span>
+      </div>
+      <div data-key="69" class="piano-key-sharp key">
+        <kbd>E</kbd><span>F#</span>
+      </div>
+      <div data-key="82" class="piano-key-natural key">
+        <kbd>R</kbd><span>G</span>
+      </div>
+      <div data-key="84" class="piano-key-sharp key">
+        <kbd>T</kbd><span>G#</span>
+      </div>
+      <div data-key="89" class="piano-key-natural key">
+        <kbd>Y</kbd><span>A</span>
+      </div>
+      <div data-key="85" class="piano-key-sharp key">
+        <kbd>U</kbd><span>A#</span>
+      </div>
+      <div data-key="73" class="piano-key-natural key">
+        <kbd>I</kbd><span>B</span>
+      </div>
+      <div data-key="79" class="piano-key-natural key">
+        <kbd>O</kbd><span>C</span>
+      </div>
+      <div data-key="80" class="piano-key-sharp key">
+        <kbd>P</kbd><span>C#</span>
+      </div>
+      <div data-key="65" class="piano-key-natural key">
+        <kbd>A</kbd><span>D</span>
+      </div>
+      <div data-key="83" class="piano-key-sharp key">
+        <kbd>S</kbd><span>D#</span>
+      </div>
+      <div data-key="68" class="piano-key-natural key">
+        <kbd>D</kbd><span>E</span>
+      </div>
+      <div data-key="70" class="piano-key-natural key">
+        <kbd>F</kbd><span>F</span>
+      </div>
+      <div data-key="71" class="piano-key-sharp key">
+        <kbd>G</kbd><span>F#</span>
+      </div>
+      <div data-key="72" class="piano-key-natural key">
+        <kbd>H</kbd><span>G</span>
+      </div>
+      <div data-key="74" class="piano-key-sharp key">
+        <kbd>J</kbd><span>G#</span>
+      </div>
+      <div data-key="75" class="piano-key-natural key">
+        <kbd>K</kbd><span>A</span>
+      </div>
+      <div data-key="76" class="piano-key-sharp key">
+        <kbd>L</kbd><span>A#</span>
+      </div>
+      <div data-key="90" class="piano-key-natural key">
+        <kbd>Z</kbd><span>B</span>
+      </div>
+      <div data-key="88" class="piano-key-natural key">
+        <kbd>X</kbd><span>C</span>
+      </div>
+      <div data-key="67" class="piano-key-sharp key">
+        <kbd>C</kbd><span>C#</span>
+      </div>
+      <div data-key="86" class="piano-key-natural key">
+        <kbd>V</kbd><span>D</span>
+      </div>
+      <div data-key="66" class="piano-key-sharp key">
+        <kbd>B</kbd><span>D#</span>
+      </div>
+      <div data-key="78" class="piano-key-natural key">
+        <kbd>N</kbd><span>E</span>
+      </div>
+      <div data-key="77" class="piano-key-natural key">
+        <kbd>M</kbd><span>F</span>
+      </div>
+    </div>
+
+    <audio data-key="81" src="./piano-mp3/E1.mp3"></audio>
+    <audio data-key="87" src="./piano-mp3/F1.mp3"></audio>
+    <audio data-key="69" src="./piano-mp3/Gb1.mp3"></audio>
+    <audio data-key="82" src="./piano-mp3/G1.mp3"></audio>
+    <audio data-key="84" src="./piano-mp3/Ab1.mp3"></audio>
+    <audio data-key="89" src="./piano-mp3/A1.mp3"></audio>
+    <audio data-key="85" src="./piano-mp3/Bb1.mp3"></audio>
+    <audio data-key="73" src="./piano-mp3/B1.mp3"></audio>
+    <audio data-key="79" src="./piano-mp3/C2.mp3"></audio>
+    <audio data-key="80" src="./piano-mp3/Db2.mp3"></audio>
+    <audio data-key="65" src="./piano-mp3/D2.mp3"></audio>
+    <audio data-key="83" src="./piano-mp3/Eb2.mp3"></audio>
+    <audio data-key="68" src="./piano-mp3/E2.mp3"></audio>
+    <audio data-key="70" src="./piano-mp3/F2.mp3"></audio>
+    <audio data-key="71" src="./piano-mp3/Gb2.mp3"></audio>
+    <audio data-key="72" src="./piano-mp3/G2.mp3"></audio>
+    <audio data-key="74" src="./piano-mp3/Ab2.mp3"></audio>
+    <audio data-key="75" src="./piano-mp3/A2.mp3"></audio>
+    <audio data-key="76" src="./piano-mp3/Bb2.mp3"></audio>
+    <audio data-key="90" src="./piano-mp3/B2.mp3"></audio>
+    <audio data-key="88" src="./piano-mp3/C3.mp3"></audio>
+    <audio data-key="67" src="./piano-mp3/Db3.mp3"></audio>
+    <audio data-key="86" src="./piano-mp3/D3.mp3"></audio>
+    <audio data-key="66" src="./piano-mp3/Eb3.mp3"></audio>
+    <audio data-key="78" src="./piano-mp3/E3.mp3"></audio>
+    <audio data-key="77" src="./piano-mp3/F3.mp3"></audio>
+
+    <script type="module" src="script/script.js"></script>
+  </body>
+</html>

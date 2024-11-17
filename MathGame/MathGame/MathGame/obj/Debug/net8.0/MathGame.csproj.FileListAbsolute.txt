@@ -1,0 +1,14 @@
+C:\Users\lukep\Desktop\Viktig\CodePractice\forGit\MathGame\MathGame\MathGame\bin\Debug\net8.0\MathGame.exe
+C:\Users\lukep\Desktop\Viktig\CodePractice\forGit\MathGame\MathGame\MathGame\bin\Debug\net8.0\MathGame.deps.json
+C:\Users\lukep\Desktop\Viktig\CodePractice\forGit\MathGame\MathGame\MathGame\bin\Debug\net8.0\MathGame.runtimeconfig.json
+C:\Users\lukep\Desktop\Viktig\CodePractice\forGit\MathGame\MathGame\MathGame\bin\Debug\net8.0\MathGame.dll
+C:\Users\lukep\Desktop\Viktig\CodePractice\forGit\MathGame\MathGame\MathGame\bin\Debug\net8.0\MathGame.pdb
+C:\Users\lukep\Desktop\Viktig\CodePractice\forGit\MathGame\MathGame\MathGame\obj\Debug\net8.0\MathGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukep\Desktop\Viktig\CodePractice\forGit\MathGame\MathGame\MathGame\obj\Debug\net8.0\MathGame.AssemblyInfoInputs.cache
+C:\Users\lukep\Desktop\Viktig\CodePractice\forGit\MathGame\MathGame\MathGame\obj\Debug\net8.0\MathGame.AssemblyInfo.cs
+C:\Users\lukep\Desktop\Viktig\CodePractice\forGit\MathGame\MathGame\MathGame\obj\Debug\net8.0\MathGame.csproj.CoreCompileInputs.cache
+C:\Users\lukep\Desktop\Viktig\CodePractice\forGit\MathGame\MathGame\MathGame\obj\Debug\net8.0\MathGame.dll
+C:\Users\lukep\Desktop\Viktig\CodePractice\forGit\MathGame\MathGame\MathGame\obj\Debug\net8.0\refint\MathGame.dll
+C:\Users\lukep\Desktop\Viktig\CodePractice\forGit\MathGame\MathGame\MathGame\obj\Debug\net8.0\MathGame.pdb
+C:\Users\lukep\Desktop\Viktig\CodePractice\forGit\MathGame\MathGame\MathGame\obj\Debug\net8.0\MathGame.genruntimeconfig.cache
+C:\Users\lukep\Desktop\Viktig\CodePractice\forGit\MathGame\MathGame\MathGame\obj\Debug\net8.0\ref\MathGame.dll

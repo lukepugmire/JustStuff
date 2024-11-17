@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lukep\\source\\repos\\HelperMethods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9787EE89-B6CE-4B41-9294-49A21FCFF8F6}|HelperMethods\\HelperMethods.csproj|c:\\users\\lukep\\source\\repos\\helpermethods\\helpermethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9787EE89-B6CE-4B41-9294-49A21FCFF8F6}|HelperMethods\\HelperMethods.csproj|solutionrelative:helpermethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lukep\\source\\repos\\HelperMethods\\HelperMethods\\Program.cs",
+              "RelativeDocumentMoniker": "HelperMethods\\Program.cs",
+              "ToolTip": "C:\\Users\\lukep\\source\\repos\\HelperMethods\\HelperMethods\\Program.cs",
+              "RelativeToolTip": "HelperMethods\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T08:03:53.456Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
